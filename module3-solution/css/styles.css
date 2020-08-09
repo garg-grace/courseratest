@@ -56,8 +56,8 @@ body {
   clear: both;
   margin-top: -30px;
 }
-h2{
-  text-align:center;
+#our-menu{
+  font-size:3em;
 }
 .container{
   margin: 15px 0 15px;
