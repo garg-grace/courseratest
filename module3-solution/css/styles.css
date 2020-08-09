@@ -56,6 +56,9 @@ body {
   clear: both;
   margin-top: -30px;
 }
+h2{
+  text-align:center;
+}
 .container{
   margin: 15px 0 15px;
   width: 100%;
